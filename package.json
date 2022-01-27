@@ -1,0 +1,33 @@
+{
+	"name": "@chen-design/color",
+	"version": "1.0.0",
+	"description": "ChenDesign color utils",
+	"main": "./src/index.js",
+	"dependencies": {
+		"color": "^4.2.0"
+	},
+	"devDependencies": {
+		"jest": "^27.4.7"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chengits/color.git"
+	},
+	"keywords": [
+		"ChenDesign",
+		"color",
+		"utils"
+	],
+	"author": "chenyuan8059@163.com",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/chengits/color/issues"
+	},
+	"homepage": "https://github.com/chengits/color#readme",
+	"files": [
+		"src"
+	]
+}
